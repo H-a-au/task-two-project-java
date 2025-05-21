@@ -77,7 +77,7 @@ This project is a Spring Boot application that provides a REST API for managing 
 - GET Endpoint running with Error 500:
 ![http___localhost_8081_api_v1_products_1 - My Workspace 5_21_2025 4_04_57 PM](https://github.com/user-attachments/assets/f82a7fb5-da08-46c4-b49e-0186fc5bf30d)
 
-H2 Database:
+- H2 Database:
 ![h2](https://github.com/user-attachments/assets/331cbd65-db26-401d-b896-11b4128391b7)
 
 ---
