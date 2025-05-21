@@ -6,7 +6,7 @@ This project is a Spring Boot application that provides a REST API for managing 
 - **Artifact**: `demo`
 - **Group ID**: `com.example`
 - **Spring Boot Version**: 3.4.5
-- **Java Version**: 21 (initially 24, adjusted for compatibility)
+- **Java Version**: initially 24
 - **Endpoints**:
   - `POST /api/v1/products`: Create a product
   - `GET /api/v1/products/{id}`: Retrieve a product by ID
